@@ -81,26 +81,6 @@ void setDemo()
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
     setDemo();
